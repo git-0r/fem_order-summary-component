@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [ Live Site URL:](https://git-0r.github.io/fem_order-summary-component/)
